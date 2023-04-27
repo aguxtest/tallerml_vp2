@@ -1,1 +1,0 @@
-const s="/tallerml_vp2/images/social_icons_svg/youtubecircle.svg",_="/tallerml_vp2/images/social_icons_svg/discord.svg",i="/tallerml_vp2/images/social_icons_svg/github.svg";export{s as _,_ as a,i as b};
